@@ -1,0 +1,21 @@
+.zirox-button-primary {
+  background-image: linear-gradient(to right, rgb(72, 70, 70), rgb(124, 64, 64));
+  color: white;
+  border: none; 
+}
+.zirox-button-primary:hover {
+  opacity: 0.9;
+  background-color: rgb(183, 178, 178);
+  color: black;
+}
+.zirox-button{
+    background-image: linear-gradient(to right, rgb(72, 70, 70), rgb(124, 64, 64));
+  color: white;
+  border: none; 
+}
+.zirox-about__left-exp{
+    background-image: linear-gradient(to right, rgb(72, 70, 70), rgb(124, 64, 64));
+}
+.popular{
+   color: #857b7c;
+}
