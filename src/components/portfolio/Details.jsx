@@ -12,40 +12,40 @@ const Details = () => {
                 <div className="col-6 col-md line">
                   <div className="zirox-portfolio-detail-items-item-info-box">
                     <p>Clients:</p>
-                    <h4>John brown</h4>
+                    <h4 className=""style={{color:"#47221A"}}>__Rafi & hajisha</h4>
                   </div>
                 </div>
                 <div className="col-6 col-md text-md-center line">
                   <div className="zirox-portfolio-detail-items-item-info-box">
                     <p>Category:</p>
-                    <h4>Graphic, Illustrations</h4>
+                    <h4 className=""style={{color:"#47221A"}}>Weddin Photography</h4>
                   </div>
                 </div>
                 <div className="col-6 col-md text-md-center line">
                   <div className="zirox-portfolio-detail-items-item-info-box">
                     <p>Date:</p>
-                    <h4>20 may, 2024</h4>
+                    <h4 className=""style={{color:"#47221A"}}>20 may, 2024</h4>
                   </div>
                 </div>
                 <div className="col-6 col-md">
                   <ul className="zirox-portfolio-detail-items-item-info-socials">
                     <li>
-                      <a href="#">
+                      <a href="https://www.facebook.com/">
                         <i className="flaticon-facebook-app-symbol"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://x.com/">
                         <i className="flaticon-twitter"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://in.pinterest.com/">
                         <i className="flaticon-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://www.instagram.com/orchidweddingstudio?igsh=MW96enA4cDVmZ2hr">
                         <i className="flaticon-pinterest"></i>
                       </a>
                     </li>
@@ -53,12 +53,15 @@ const Details = () => {
                 </div>
               </div>
             </div>
-            <h3 className="zirox-portfolio-detail-items-item-title">Business Analysis</h3>
-            <p className="zirox-portfolio-detail-items-item-text">Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet</p>
+            <h3 className="zirox-portfolio-detail-items-item-title">Photographer</h3>
+            <p className="zirox-portfolio-detail-items-item-text">
+              Passionate and creative professional photographer with a keen eye for detail. Specializes in portrait, event, lifestyle, and product photography. 3+ years of hands-on experience capturing compelling visual stories. Proficient in using DSLR and mirrorless systems (Canon, Nikon, Sony). Expert in Adobe Lightroom and Photoshop for
+              high-end photo editing.
+            </p>
 
             <p className="zirox-portfolio-detail-items-item-text">
-              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English. Many desktop publishing packages
-              and web page editors now use Lorem Ipsum as their default model text, and a search for lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, humour and the like.
+              Adept at planning, styling, and directing photoshoots for diverse clients. Strong understanding of natural and studio lighting techniques. Successfully completed over 100 client projects with 5-star feedback. Experienced in working with models, brands, couples, and families. Produces high-resolution digital assets optimized for print
+              and web. Delivers fast turnaround with consistent quality and professionalism. Knowledgeable in image licensing, copyright, and digital rights. Excellent communication skills to bring client visions to life. Always exploring new techniques and visual trends in photography. Committed to capturing timeless moments with emotional impact.
             </p>
           </div>
         </div>
