@@ -46,7 +46,7 @@ const ContactFormMap = () => {
                 </div>
                 <div className="zirox-contact__left-box-detail">
                   <h3>Email </h3>
-                  <a href="email:Orcchid__wedding@gmail.com">Orcchid__wedding@gmail.com</a>
+                  <a href="email:Orcchid__wedding@gmail.com">Info@orchidweddingstudio.com</a>
                   {/* <a href="mailto:hello@ultradevs.com">hello@ultradevs.com</a> */}
                 </div>
               </div>

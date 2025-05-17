@@ -49,7 +49,7 @@ const Header = () => {
                   <div className="zirox-header-info-box__details">
                     <span>Send email</span>
                     <h4>
-                       <a href="email:orchid__wedding@gmail.com">orchid__wedding@gmail.com</a>
+                       <a href="email:Info@orchidweddingstudio.com">Info@orchidweddingstudio.com</a>
                     </h4>
                   </div>
                 </div>
@@ -205,7 +205,7 @@ const Header = () => {
                 <div className="zirox-header-info-box__details">
                   <span>Send email</span>
                   <h4>
-                    <a href="vijeshorchid@gmail.com">orchid__wedding@gmail.com</a>
+                    <a href="email:Info@orchidweddingstudio.com">Info@orchidweddingstudio.com</a>
                   </h4>
                 </div>
               </div>
