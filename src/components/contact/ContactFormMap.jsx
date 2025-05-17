@@ -1,15 +1,20 @@
+import { Link } from "react-router-dom";
+
 const ContactFormMap = () => {
   return (
     <section className="zirox-contact zirox-contact--single">
       <div className="zirox-contact__map">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3644.643953583783!2d89.25012277534395!3d24.00834687849534!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe87da4863b7ad%3A0xf6f6a05d263bea24!2sultraDevs!5e0!3m2!1sen!2sbd!4v1694939218212!5m2!1sen!2sbd"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4755.018334200917!2d76.18397491139409!3d10.86489578924466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7cf3eeaa7a645%3A0x9ccc11bd51f03e42!2sorchid%20wedding%20studio!5e1!3m2!1sen!2sin!4v1747471747422!5m2!1sen!2sin"
           height="450"
           style={{ border: 0 }}
           allowfullscreen=""
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
+
+
+        
       </div>
       <div className="container">
         <h2>Get In Touch</h2>
@@ -41,7 +46,7 @@ const ContactFormMap = () => {
                 </div>
                 <div className="zirox-contact__left-box-detail">
                   <h3>Email </h3>
-                  <a href="vijeshorchid@gmail.com">Orcchid__wedding@gmail.com</a>
+                  <a href="email:Orcchid__wedding@gmail.com">Orcchid__wedding@gmail.com</a>
                   {/* <a href="mailto:hello@ultradevs.com">hello@ultradevs.com</a> */}
                 </div>
               </div>
@@ -68,7 +73,14 @@ const ContactFormMap = () => {
                       <textarea name="message" id="message" cols="30" rows="10" placeholder="Your Message"></textarea>
                     </div>
                   </div>
-                  <button className="zirox-button">Send Message</button>
+                  {/* <button className="zirox-button">Send Message</button> */}
+                     <div data-aos="fade-up" data-aos-delay="300" className=" text-center text-lg-end ">
+                                 <Link to="/contact" className="zirox-button" style={{borderRadius:"30px"}}
+                                 >
+                                  Sen Message
+                                 </Link>
+
+ </div>
                 </form>
               </div>
             </div>

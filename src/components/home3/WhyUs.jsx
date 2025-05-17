@@ -1,5 +1,6 @@
 import { useState } from "react";
 import ModalVideo from "react-modal-video";
+import { Link } from "react-router-dom";
 const WhyUs = () => {
   const [open, setOpen] = useState(false);
   return (
@@ -76,7 +77,11 @@ const WhyUs = () => {
                   </div>
                   <div className="zirox-choose-us__experience__left__text">
                     <h2 className="text-white" style={{marginTop:"50px"}}>25+ Years Experience For Photographer Field</h2>
-                    <button className="zirox-button"style={{borderRadius:"30px"}}>View More</button>
+    <Link to="/Services">  
+    <button className="zirox-button"style={{borderRadius:"30px"}}>View More</button>
+    </Link>
+                   
+
                   </div>
                 </div>
               </div>

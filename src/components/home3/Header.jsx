@@ -31,7 +31,7 @@ const Header = () => {
         <div className="zirox-header__top-bar">
           <div className="container-fluid">
             <div className="d-flex align-items-center justify-content-between py-3 py-lg-2">
-              <Link to="/index-3" className="zirox-header__top-bar__logo">
+              <Link to="/" className="zirox-header__top-bar__logo">
                 <img src="/img/Logo.png" alt="Logo" />
               </Link>
               <div className="zirox-header__top-bar__info d-none d-xl-flex py-3">
@@ -49,7 +49,7 @@ const Header = () => {
                   <div className="zirox-header-info-box__details">
                     <span>Send email</span>
                     <h4>
-                       <a href="vijeshorchid@gmail.com">orchid__wedding@gmail.com</a>
+                       <a href="email:orchid__wedding@gmail.com">orchid__wedding@gmail.com</a>
                     </h4>
                   </div>
                 </div>

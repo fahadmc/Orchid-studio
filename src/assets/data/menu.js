@@ -17,7 +17,7 @@ export const menu = [
   {
     id: 4,
     title: "GALLERY",
-    url:"/About",
+    url:"/gallery",
   },
   {
     id: 5,

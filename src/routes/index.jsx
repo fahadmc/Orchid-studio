@@ -15,6 +15,7 @@ import Team from "@/pages/Team";
 import { createBrowserRouter } from "react-router-dom";
 import RootLayout from "../layouts/RootLayout";
 import Hero from "@/components/home3/Hero";
+import Gallery from "@/components/home3/Gallery";
 
 export const router = createBrowserRouter([
   // {
@@ -81,10 +82,16 @@ export const router = createBrowserRouter([
         path: "/faq",
         element: <Team />,
       },
+      {
+        path:"/gallery",
+        element:<Gallery/>
+      }
+    
+      
     ],
   },
-  {
-    path: "*",
-    element: <NotFound />,
-  },
+  // {
+  //   path: "*",
+  //   element: <NotFound />,
+  // },
 ]);

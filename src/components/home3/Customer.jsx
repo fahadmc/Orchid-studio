@@ -10,7 +10,8 @@ const Customer = () => {
           </div>
           <div className="col-12 col-lg-4">
             <div data-aos="fade-up" data-aos-delay="300" className=" text-center text-lg-end ">
-              <Link to="/contact" className="zirox-button"style={{borderRadius:"30px"}}>
+              <Link to="/contact" className="zirox-button" style={{borderRadius:"30px"}}
+              >
                 Get Message
               </Link>
             </div>

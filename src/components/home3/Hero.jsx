@@ -54,7 +54,7 @@ const Hero = () => {
                 <div className="zirox-hero__left">
                   <div className="zirox-hero__left__content">
                     <h1 data-aos="fade-up" className=" text-white">
-                      Creative photo studio
+                      Creative photostudio
                     </h1>
                     <div data-aos="fade-up" data-aos-delay="300">
                       <Link to="/contact" className="zirox-button  zirox-button-primary rounded-pill ">

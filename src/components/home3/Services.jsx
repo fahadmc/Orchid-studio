@@ -15,9 +15,9 @@ const PopularServices = () => {
                 </div>
                 <h3>Consultation & Discovery</h3>
                 <p>We understand your needs, goals, and vision to tailor the perfect solution.</p>
-                <a href="#" className="zirox-services-box-icon"style={{backgroundColor:"#47221A"}}>
+                {/* <a href="#" className="zirox-services-box-icon"style={{backgroundColor:"#47221A"}}>
                   <i className="flaticon-plus"></i>
-                </a>
+                </a> */}
               </div>
             </div>
             <div className="col-12 col-md-6 col-lg">
@@ -27,9 +27,9 @@ const PopularServices = () => {
                 </div>
                 <h3>Planning & Strategy</h3>
                 <p>Our team crafts a clear plan using the best tools and creative direction.</p>
-                <Link to="/services-details" className="zirox-services-box-icon"style={{backgroundColor:"#47221A"}}>
+                {/* <Link to="/services-details" className="zirox-services-box-icon"style={{backgroundColor:"#47221A"}}>
                   <i className="flaticon-plus"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-12 col-md-6 col-lg-5">
@@ -63,9 +63,9 @@ Our expert editing and creative direction ensure every shot stands out.</p>
                 </div>
                 <h3>Execution & Delivery</h3>
                 <p>We bring ideas to life with precision, quality, and attention to detail.</p>
-                <Link to="/services-details" className="zirox-services-box-icon"style={{backgroundColor:"#47221A"}}>
+                {/* <Link to="/services-details" className="zirox-services-box-icon"style={{backgroundColor:"#47221A"}}>
                   <i className="flaticon-plus"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-12 col-md-6 col-lg d-flex align-items-end">
@@ -75,9 +75,9 @@ Our expert editing and creative direction ensure every shot stands out.</p>
                 </div>
                 <h3>Support & Growth</h3>
                 <p>Post-delivery, we provide ongoing support to help you grow and evolve.</p>
-                <Link to="/services-details" className="zirox-services-box-icon"style={{backgroundColor:"#47221A"}}>
+                {/* <Link to="/services-details" className="zirox-services-box-icon"style={{backgroundColor:"#47221A"}}>
                   <i className="flaticon-plus"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>

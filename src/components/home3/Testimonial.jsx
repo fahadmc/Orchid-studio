@@ -10,7 +10,7 @@ const Testimonial = () => {
             </h2>
           </div>
           <div data-aos="fade-up" data-aos-delay="400">
-            <a href="#" className="zirox-button"style={{borderRadius:"30px"}}>
+            <a  className="zirox-button"style={{borderRadius:"30px"}}>
               Client Feedback
             </a>
           </div>
